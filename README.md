@@ -4,8 +4,6 @@
 
 ### 🎥 Video tutorial: [Watch Now](https://youtu.be/alFmwf8f9BE)
 
-### 🌟 Live Preview: [Check it out here](https://codinggujaratweb.github.io/Create-Responsive-Snake-Game-Python-Turtle/)
-
 ### 📂 Source Code: [Download here](https://github.com/codinggujaratweb/Create-Responsive-Snake-Game-Python-Turtle)
 
 ### 💼 Connect with me on LinkedIn:  [Aman Nayak](https://www.linkedin.com/in/amanayak/)
